@@ -1,0 +1,19 @@
+.mainTop {
+    height: 65vh;
+    width: 95vh;
+    background-color: lightgrey;
+    margin: auto;
+}
+
+.centerText {
+    position: relative;
+    top: 25%;
+    text-align: center;
+}
+
+#jwtBox {
+    text-align: center;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    
+}
