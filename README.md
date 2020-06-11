@@ -1,7 +1,7 @@
 #
 ## Portfolio Assignment
 
-John Hash (hashj)
+John Hash
 
 Pet Boarding API
 
@@ -25,7 +25,7 @@ URL for account creation/login https://hashj-project.wl.r.appspot.com/account
 
 [View All Users 5](#_Toc42442201)
 
-[Create a Room 6](#_Toc42442202)
+[Create a Room 6](#_create_a_room)
 
 [View a Single Room 7](#_Toc42442203)
 
