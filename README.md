@@ -17,43 +17,43 @@ Base URL for all API endpoints https://hashj-project.wl.r.appspot.com
 
 URL for account creation/login https://hashj-project.wl.r.appspot.com/account
 
-[Change log 1](#change-log)
+[Change log](#change-log)
 
-[Data Model 2](#data-model)
+[Data Model](#data-model)
 
-[API Specification 5](#api-specification)
+[API Specification](#api-specification)
 
-[View All Users 5](#view-all-users)
+[View All Users](#view-all-users)
 
-[Create a Room 6](#create-a-room)
+[Create a Room](#create-a-room)
 
-[View a Single Room 7](#view-a-single-room)
+[View a Single Room](#view-a-single-room)
 
-[View All Rooms 9](#view-all-rooms)
+[View All Rooms](#view-all-rooms)
 
-[Update a Room Via PATCH 10](#update-a-room-via-patch)
+[Update a Room Via PATCH](#update-a-room-via-patch)
 
-[Update a Room Via PUT 11](#update-a-room-via-put)
+[Update a Room Via PUT](#update-a-room-via-put)
 
-[Delete a Room 12](#delete-a-room)
+[Delete a Room](#delete-a-room)
 
-[Create a Pet 14](#create-a-pet)
+[Create a Pet](#create-a-pet)
 
-[View a Pet 16](#view-a-pet)
+[View a Pet](#view-a-pet)
 
-[View All Pets 17](#view-all-pets)
+[View All Pets](#view-all-pets)
 
-[Update a Pet Via PATCH 19](#update-a-pet-via-patch)
+[Update a Pet Via PATCH](#update-a-pet-via-patch)
 
-[Update a Pet Via PUT 20](#update-a-pet-via-put)
+[Update a Pet Via PUT](#update-a-pet-via-put)
 
-[Delete a Pet 22](#delete-a-pet)
+[Delete a Pet](#delete-a-pet)
 
-[Assign a Pet to a Room 23](#assign-a-pet-to-a-room)
+[Assign a Pet to a Room](#assign-a-pet-to-a-room)
 
-[Remove a Pet From a Room 25](#remove-a-pet-from-a-room)
+[Remove a Pet From a Room](#remove-a-pet-from-a-room)
 
-[405 and 406 Status Codes: Methods and Media Types Not Allowed 26](#405-and-406-status-codes:-methods-and-media-types-not-allowed)
+[405 and 406 Status Codes: Methods and Media Types Not Allowed](#405-and-406-status-codes-methods-and-media-types-not-allowed)
 
 # Change log
 
