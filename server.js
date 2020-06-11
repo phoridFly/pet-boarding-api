@@ -73,7 +73,7 @@ app.use('/', require('./index'));
 
 
 // details needed for authorization and authentication
-const clientIDParam = "1044970369901-vdh6sbml4h4hm7du9setaugvjr82ctek.apps.googleusercontent.com";
+const clientIDParam = [client id here]
 const redirectURIParam = "https://hashj-project.wl.r.appspot.com/user-info";
 const scopeParam = "profile";
 var stateParam = "";
@@ -81,7 +81,7 @@ var userIdToken = "";
 var userSub = "";
 const peopleApiUrl = "https://people.googleapis.com/v1/people/me?personFields=names,emailAddresses";
 const googleOauth = "https://oauth2.googleapis.com/token";
-const clientSecrectParam = "oAP6F5ecIchoS-Xv8MqQDHXA";
+const clientSecrectParam = [client secret];
 const {OAuth2Client} = require('google-auth-library');
 const client = new OAuth2Client(clientIDParam);
 
