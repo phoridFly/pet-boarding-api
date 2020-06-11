@@ -60,7 +60,7 @@ const ds = require('./datastore');
 const datastore = ds.datastore;
 router.use(bodyParser.json());
 const {OAuth2Client} = require('google-auth-library');
-const clientIDParam = "1044970369901-vdh6sbml4h4hm7du9setaugvjr82ctek.apps.googleusercontent.com";
+const clientIDParam = [client parameter here];
 const client = new OAuth2Client(clientIDParam);
 
 const ROOM = "Room";
