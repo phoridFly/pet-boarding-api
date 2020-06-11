@@ -25,7 +25,7 @@ URL for account creation/login https://hashj-project.wl.r.appspot.com/account
 
 [View All Users 5](#_Toc42442201)
 
-[Create a Room 6](# Create a Room)
+[Create a Room 6](#create-a-room)
 
 [View a Single Room 7](#_Toc42442203)
 
